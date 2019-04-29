@@ -3,7 +3,7 @@ A PME (Public Market Equivalent) portfolio analyzer seeks to provide the most in
 
 Seen below, the software prompts the user for the date desired for portfolio comparison. The user then uploads an excel file containing their portfolio information:
 
-![GitHub Logo](/github/firstscreenshot.jpeg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
