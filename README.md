@@ -8,3 +8,7 @@ Seen below, the software prompts the user for the date desired for portfolio com
 Below is an example of an excel file given by the user:
 
 ![](excelscreenshot.GIF)
+
+Below is the result, after clicking the 'Go' button:
+
+![](fullscreenshot.GIF)
