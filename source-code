@@ -36,7 +36,7 @@ Entry3.grid(row=2, column=1)
 Label(root, text="Please select the portfolio you would like to view: ").grid(row=3, column=0)
 Label(root, text="Click 'go' to see your results").grid(row=4, column=0)
 
-def nowbitch():
+def now():
     now = dt.datetime.now()
     year1 = now.year
     month1 = now.month
@@ -46,7 +46,7 @@ def nowbitch():
     Entry2.insert(0, month1)
     Entry3.insert(0, day1)
 
-button3 = Button(root, text="Click To Auto-Fill Today's Date", command=nowbitch)
+button3 = Button(root, text="Click To Auto-Fill Today's Date", command=now)
 button3.grid(row=0, column=3)
 
 def portfolio():
